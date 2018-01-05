@@ -40,12 +40,10 @@ $ vm/start.sh
 This will start a Qemu virtual machine in which you can play the game.
 
 ## Why
-One of the assignments for the Computer Organisation course of 2016 at Delft University of Technology
-was to create a bootable game in x86 assembly. To see the other assignments I made,
-take a look at the [ti1406](https://github.com/fabianishere/ti1406) repository.
+I had to post this on GitHub because It is amzing and you can not copy because it has a license also this app is on App Store & Play Store!
 
 ## License
-The code is released under the MIT license. See the `LICENSE` file.
+The code is released under the Apache 2.0 License to view go above and click LICENSE.
 
 All sprite files in the `resources` directory: all copyrights belong to their 
 respective owners. The files are used for education purpose only.
